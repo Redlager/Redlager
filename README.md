@@ -1,5 +1,4 @@
+# 👋 ¡Hola! Soy Redlager
 
-<!---
-Redlager/Redlager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bienvenido/a a mi perfil de GitHub.  
+Soy desarrollador de software y me gusta mucho la informatica, los proyectos que se puedan crear de ella y la creación de herramientas prácticas para resolver problemas reales.
